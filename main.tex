@@ -1,0 +1,73 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+
+\title{Prompt Engineering - Mini Projekt}
+\author{Jan Albrecht}
+\date{January 2021}
+
+\usepackage[utf8]{inputenc}
+\usepackage{ulem}
+\usepackage{utopia} %font utopia imported
+\usepackage{amssymb,nccmath,float}
+\usepackage{amsmath,mathtools}
+\usepackage[style=numeric,maxalphanames=1,backend=biber]{biblatex}
+
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+\usetheme{Madrid}
+\definecolor{UBCblue}{rgb}{0.04706, 0.13725, 0.26667}
+\usecolortheme[named=UBCblue]{structure}
+
+
+%------------------------------------------------------------
+\renewcommand*{\labelalphaothers}{}
+
+\DeclareLabelalphaTemplate{
+	\labelelement{
+		\field[final]{shorthand}
+		\field{labelname}
+		\field{label}
+	}
+	\labelelement{
+		\literal{\addhighpenspace}
+	}
+	\labelelement{
+		\field{year}
+	}
+}
+
+
+%------------------------------------------------------------
+%This block of code defines the information to appear in the
+%Title page
+\title[Prompt Engineering Project] %optional
+{Knowledge Leakage - Finding a Path to Learn Math}
+
+
+
+\author[J. Albrecht] % (optional)
+{Jan Albrecht}
+
+\institute[Student - University Leipzig] % (optional)
+{University Leipzig\\[12pt]Problem Description}
+
+\date[12.06.2022] % (optional)
+
+
+\logo{\includegraphics[height=1.5cm]{images/512px-Universität_Leipzig_logo.svg.png}}
+
+%------------------------------------------------------------
+\begin{document}
+	%The next statement creates the title page.
+	\frame{\titlepage}
+	%---------------------------------------------------------
+	\section{Example Prompt}
+	\begin{frame}{Example Prompt that aims to solve the problem + output}
+	\end{frame}
+	%---------------------------------------------------------
+\section{Investigation}
+\begin{frame}{Investigation}
+	Plot or chart or ... to document your engineering investigation
+\end{frame}
+\end{document}
