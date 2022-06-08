@@ -1,6 +1,6 @@
 # prompt-engineering-bdlt
-Mini Project: Prompt Engineering GPT-3
-Module: Big Data and Language Technologies 
+Mini Project: Prompt Engineering GPT-3,
+Module: Big Data and Language Technologies,
 Institution: University Leipzig
 
 ## Motivation
