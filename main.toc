@@ -1,2 +1,0 @@
-\beamer@sectionintoc {1}{Example Prompt}{2}{0}{1}
-\beamer@sectionintoc {2}{Investigation}{3}{0}{2}
