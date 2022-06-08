@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.27)  30 MAY 2022 09:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.27)  8 JUN 2022 10:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1077,6 +1077,42 @@ Package: xparse 2022-01-12 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 ))
+(C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen306
+\WF@size=\dimen307
+\c@WF@wrappedlines=\count466
+\WF@box=\box82
+\WF@everypar=\toks50
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen308
+\captionmargin=\dimen309
+\caption@leftmargin=\dimen310
+\caption@rightmargin=\dimen311
+\caption@width=\dimen312
+\caption@indent=\dimen313
+\caption@parindent=\dimen314
+\caption@hangindent=\dimen315
+Package caption Info: beamer document class detected.
+
+(C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-beamer.
+sto
+File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
+e beamer document classes (AR)
+))
+\c@caption@flags=\count467
+\c@continuedfloat=\count468
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+Package caption Info: wrapfig package is loaded.
+)
 (C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeMadri
 d.sty
 (C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
@@ -1089,29 +1125,29 @@ rounded.sty)
 infolines.sty))
 (C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
 structure.sty)
-\@quotelevel=\count466
-\@quotereset=\count467
+\@quotelevel=\count469
+\@quotereset=\count470
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1151,17 +1187,17 @@ LaTeX Font Info:    ... okay on input line 61.
 (C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count468
-\scratchdimen=\dimen306
-\scratchbox=\box82
-\nofMPsegments=\count469
-\nofMParguments=\count470
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count471
-\MPscratchDim=\dimen307
-\MPnumerator=\count472
-\makeMPintoPDFobject=\count473
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count471
+\scratchdimen=\dimen316
+\scratchbox=\box83
+\nofMPsegments=\count472
+\nofMParguments=\count473
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count474
+\MPscratchDim=\dimen317
+\MPnumerator=\count475
+\makeMPintoPDFobject=\count476
+\everyMPtoPDFconversion=\toks52
 )
 (C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -1173,63 +1209,63 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 61.
+Package hyperref Info: Link coloring OFF on input line 64.
  (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 61.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 64.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 61.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 64.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/put/m/n on input line 61.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 61.
+(Font)                  OT1/cmss/m/n --> OT1/put/m/n on input line 64.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 61.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 61.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 61.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 64.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 61.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 61.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 61.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 64.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 61.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 61.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 61.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 64.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 61.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 61.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 64.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 61.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 64.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 61.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/put/b/n on input line 61.
+(Font)                  OT1/cmss/b/n --> OT1/put/b/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 61.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 61.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 61.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 61.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 61.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 64.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 64.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 6
-1.
+4.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 6
-1.
+4.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 61.
+ut line 64.
 
 (C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 asic-dictionary-English.dict
@@ -1270,35 +1306,82 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 61.
-Package biblatex Info: Reference segment=0 on input line 61.
+Package biblatex Info: Reference section=0 on input line 64.
+Package biblatex Info: Reference segment=0 on input line 64.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
  (main.nav)
-<images/512px-Universität_Leipzig_logo.svg.png, id=29, 513.92pt x 216.81pt>
+<images/512px-Universität_Leipzig_logo.svg.png, id=33, 513.92pt x 216.81pt>
 File: images/512px-Universität_Leipzig_logo.svg.png Graphic file (type png)
 <use images/512px-Universität_Leipzig_logo.svg.png>
 Package pdftex.def Info: images/512px-Universität_Leipzig_logo.svg.png  used o
-n input line 63.
+n input line 66.
 (pdftex.def)             Requested size: 101.15892pt x 42.67912pt.
  [1
 
 {C:/Users/janal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/512
 px-Universität_Leipzig_logo.svg.png>]
+<./images/taxonomy.png, id=68, 222.07968pt x 317.68687pt>
+File: ./images/taxonomy.png Graphic file (type png)
+<use ./images/taxonomy.png>
+Package pdftex.def Info: ./images/taxonomy.png  used on input line 82.
+(pdftex.def)             Requested size: 106.79433pt x 152.7691pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/it' undefined
+(Font)              using `OT1/cmss/b/n' instead on input line 82.
+
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 82.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 82.
+
+(C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 82.
+
+
+(C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 82.
+
+(C:\Users\janal\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
+erncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
 File: images/512px-Universität_Leipzig_logo.svg.png Graphic file (type png)
 <use images/512px-Universität_Leipzig_logo.svg.png>
 Package pdftex.def Info: images/512px-Universität_Leipzig_logo.svg.png  used o
-n input line 67.
+n input line 82.
 (pdftex.def)             Requested size: 101.15892pt x 42.67912pt.
  [2
 
-]
+ <./images/taxonomy.png>]
+<./images/Model.png, id=106, 867.24pt x 361.35pt>
+File: ./images/Model.png Graphic file (type png)
+<use ./images/Model.png>
+Package pdftex.def Info: ./images/Model.png  used on input line 92.
+(pdftex.def)             Requested size: 444.98492pt x 185.41086pt.
+
+Overfull \hbox (102.68962pt too wide) in paragraph at lines 92--92
+ [] 
+ []
+
+
+Overfull \vbox (2.94028pt too high) detected at line 92
+ []
+
 File: images/512px-Universität_Leipzig_logo.svg.png Graphic file (type png)
 <use images/512px-Universität_Leipzig_logo.svg.png>
 Package pdftex.def Info: images/512px-Universität_Leipzig_logo.svg.png  used o
-n input line 72.
+n input line 92.
 (pdftex.def)             Requested size: 101.15892pt x 42.67912pt.
- [3
+[3
 
-]
+ <./images/Model.png>]
 \tf@nav=\write7
 \openout7 = `main.nav'.
 
@@ -1309,34 +1392,45 @@ n input line 72.
 \openout9 = `main.snm'.
 
 
+
+Package caption Warning: Unused \captionsetup[wrapfigure] on input line 82.
+See the caption package documentation for explanation.
+
 (main.aux)
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: F1FCC06C08289CAE62DF1E5E08B54175;93
-(rerunfilecheck)             After:  B7F7B21264F54D40C1D39578E987CCAD;224.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: B7F7B21264F54D40C1D39578E987CCAD;224.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29537 strings out of 478614
- 590199 string characters out of 2843122
- 1250878 words of memory out of 3000000
- 47153 multiletter control sequences out of 15000+600000
- 471177 words of font info for 35 fonts, out of 8000000 for 9000
+ 31062 strings out of 478614
+ 620758 string characters out of 2843122
+ 1274672 words of memory out of 3000000
+ 48634 multiletter control sequences out of 15000+600000
+ 477430 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,739b,801s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/janal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmss10.pfb><C:/Users/janal/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmss12.pfb><C:/Users/janal/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmss8.pfb>
-Output written on main.pdf (3 pages, 78182 bytes).
+cmmi10.pfb><C:/Users/janal/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi8.pfb><C:/Users/janal/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmss10.pfb><C:/Users/janal/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/janal/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/janal/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/janal/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/janal
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/U
+sers/janal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12
+.pfb><C:/Users/janal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmssi8.pfb><C:/Users/janal/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Users/janal/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (3 pages, 273024 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 92 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
